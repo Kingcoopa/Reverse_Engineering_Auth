@@ -27,4 +27,4 @@ THEN I understand the codebase
 
 ## Links
 
-* Google doc link for explanation:
+* Google doc link for explanation: https://docs.google.com/document/d/1MAkQ3hFf6lzxE8vqyb6Bhz5Kgbd5QBIBJwoGeOa1LWw/edit?usp=sharing
